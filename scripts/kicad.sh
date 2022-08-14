@@ -5,7 +5,7 @@ pacman -S --needed \
     git \
     ${MINGW_PACKAGE_PREFIX}-cmake \
     ${MINGW_PACKAGE_PREFIX}-doxygen \
-    ${MINGW_PACKAGE_PREFIX}-python2 \
+    ${MINGW_PACKAGE_PREFIX}-python \
     ${MINGW_PACKAGE_PREFIX}-swig \
     ${MINGW_PACKAGE_PREFIX}-boost \
     ${MINGW_PACKAGE_PREFIX}-cairo \
